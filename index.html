@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الـصـفـحـة الرئيـسـيـة | خـريطة جازان</title>
+    <link rel="stylesheet" href="./style/all.min.css">
+    <link rel="stylesheet" href="./style/normalize.css">
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@300;500;700&family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="home">
+        <div class="home-details">
+            <div class="home-details-title">
+                <h2 class="home-details-title-head">خـــريــطــة جــــازان</h2>
+            </div>
+            <div class="home-details-text">
+                <span id="element"></span>
+            </div>
+            <div class="home-details-btn">
+                <a href="./map.html" id="mapLink">تــصــفّـح الـخـريـطـة</a>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    
+    <script>
+        var typed = new Typed('#element', {
+          strings: ['تقع منطقة جازان في الجزء الجنوبي الغربي من المملكة , يحدها من الشمال منطقة عسير وجزء من منطقة مكة المكرمة و من الجنوب والشرق اليمن ومن الغرب البحر الأحمر بطول 230 كم.'],
+          typeSpeed: 20,
+        });           
+      </script>
+</body>
+</html>
