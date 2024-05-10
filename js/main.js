@@ -15,10 +15,10 @@ const placeList = [
        ويقع بالقرب منها: جزيرة المرجان: وهي عبارة عن شبه جزيرة تقع بالقرب من مدينة جيزان بها منتجعات سياحية وتعتبر من المواقع العالية الجذب السياحي.
        `,
        "images" : {
-           "one" : "../imgs/jazan/1.jpg",
-           "two" : "../imgs/jazan/2.jpg",
-           "three" : "../imgs/jazan/3.jpg",
-           "four" : "../imgs/jazan/4.jpg",
+           "one" : "./imgs/jazan/1.jpg",
+           "two" : "./imgs/jazan/2.jpg",
+           "three" : "./imgs/jazan/3.jpg",
+           "four" : "./imgs/jazan/4.jpg",
          }
        }
   },
