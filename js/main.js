@@ -43,10 +43,10 @@ const placeList = [
        يتواجد به العديد من القطع الأثرية التي توضح تاريخ منطقة جازان وللموقع أهمية تراثية وأثرية عالية.
        `,
        "images" : {
-         "one" : "/imgs/sbia/1.jpg",
-         "two" : "/imgs/sbia/2.jpg",
-         "three" : "/imgs/sbia/3.jpg",
-         "four" : "/imgs/sbia/4.jpg",
+         "one" : "../imgs/sbia/1.jpg",
+         "two" : "../imgs/sbia/2.jpg",
+         "three" : "../imgs/sbia/3.jpg",
+         "four" : "../imgs/sbia/4.jpg",
        }
      }
  },
@@ -73,10 +73,10 @@ const placeList = [
 
        `,
        "images" : {
-         "one" : "/imgs/samta/1.jpg",
-         "two" : "/imgs/samta/2.jpg",
-         "three" : "/imgs/samta/3.jpg",
-         "four" : "/imgs/samta/4.jpg",
+         "one" : "../imgs/samta/1.jpg",
+         "two" : "../imgs/samta/2.jpg",
+         "three" : "../imgs/samta/3.jpg",
+         "four" : "../imgs/samta/4.jpg",
        }
      }
  },
@@ -97,10 +97,10 @@ const placeList = [
         تكمن أهميته في قمته التي تطل على بعض الأودية , واعتدال طقسه في الصيف.
        `,
        "images" : {
-         "one" : "/imgs/dayer/1.jpg",
-         "two" : "/imgs/dayer/2.jpg",
-         "three" : "/imgs/dayer/3.jpg",
-         "four" : "/imgs/dayer/4.jpg",
+         "one" : "../imgs/dayer/1.jpg",
+         "two" : "../imgs/dayer/2.jpg",
+         "three" : "../imgs/dayer/3.jpg",
+         "four" : "../imgs/dayer/4.jpg",
        }
      }
  },
@@ -119,10 +119,10 @@ const placeList = [
        العين الحارة: تعتبر مكان مثالي لتقديم الخدمات الطبية الطبيعية المتمثلة في الاستشفاء من الأمراض بالمياه الكبريتية.
        `,
        "images" : {
-         "one" : "/imgs/hars/1.jpg",
-         "two" : "/imgs/hars/2.jpg",
-         "three" : "/imgs/hars/3.jpg",
-         "four" : "/imgs/hars/4.jpg",
+         "one" : "../imgs/hars/1.jpg",
+         "two" : "../imgs/hars/2.jpg",
+         "three" : "../imgs/hars/3.jpg",
+         "four" : "../imgs/hars/4.jpg",
        }
      }
  },
@@ -137,10 +137,10 @@ const placeList = [
        "text" : ` تقع إلى الشمال الشرقي لمدينة جازان إذ تبعد حوالي 75 كم. ويعتبر مرجع قبيلة بلغازي.
        `,
        "images" : {
-         "one" : "/imgs/aydaby/1.jpg",
-         "two" : "/imgs/aydaby/2.jpg",
-         "three" : "/imgs/aydaby/3.jpg",
-         "four" : "/imgs/aydaby/4.jpg",
+         "one" : "../imgs/aydaby/1.jpg",
+         "two" : "../imgs/aydaby/2.jpg",
+         "three" : "../imgs/aydaby/3.jpg",
+         "four" : "../imgs/aydaby/4.jpg",
        }
      }
  },
@@ -167,10 +167,10 @@ const placeList = [
           تغطي مساحة كبيرة، وتتميز بوجود الأشجار والمناطق الخضراء وتصب فيها مجموعة من الأودية ولكل منها روافد تغذيها كما تعتبر من المواقع السياحية العالية للجذب السياحي وتحتاج للمزيد من الخدمات السياحية.
        `,
        "images" : {
-         "one" : "/imgs/arda/1.jpg",
-         "two" : "/imgs/arda/2.jpg",
-         "three" : "/imgs/arda/3.jpg",
-         "four" : "/imgs/arda/4.jpg",
+         "one" : "../imgs/arda/1.jpg",
+         "two" : "../imgs/arda/2.jpg",
+         "three" : "../imgs/arda/3.jpg",
+         "four" : "../imgs/arda/4.jpg",
        }
      }
  },
@@ -196,10 +196,10 @@ const placeList = [
      ينحدر من السودة بمنطقة عسير، تكثر فيه أشجار الدوم ويكثر الاقبال على التنزه فيه في الخريف والشتاء.
      `,
      "images"  : {
-       "one"   :   "/imgs/darb/1.jpg",
-       "two"   :   "/imgs/darb/2.jpg",
-       "three" :   "/imgs/darb/3.jpg",
-       "four"  :   "/imgs/darb/4.jpg",
+       "one"   :   "../imgs/darb/1.jpg",
+       "two"   :   "../imgs/darb/2.jpg",
+       "three" :   "../imgs/darb/3.jpg",
+       "four"  :   "../imgs/darb/4.jpg",
      }
    }
  },
@@ -219,10 +219,10 @@ const placeList = [
         عبارة عن غابة مترامية الأطراف من شجر الأثل المعمر. ويتميز الوادي بوجود النباتات المتشابكة التي تشكل مناظر طبيعية مميزة.
        `,
        "images" : {
-         "one" : "/imgs/damad/1.jpg",
-         "two" : "/imgs/damad/2.jpg",
-         "three" : "/imgs/damad/3.jpg",
-         "four" : "/imgs/damad/4.jpg",
+         "one" : "../imgs/damad/1.jpg",
+         "two" : "../imgs/damad/2.jpg",
+         "three" : "../imgs/damad/3.jpg",
+         "four" : "../imgs/damad/4.jpg",
        }
      }
  },
@@ -245,10 +245,10 @@ const placeList = [
        شاهق الإرتفاع يمتاز بجوه البارد صيفا ويمتاز بالأشجار الطبيعية والمزارع والغابات الكثيفة ويعتبر من المناطق السياحية.
        `,
        "images" : {
-         "one" : "/imgs/rayth/1.jpg",
-         "two" : "/imgs/rayth/2.jpg",
-         "three" : "/imgs/rayth/3.jpg",
-         "four" : "/imgs/rayth/4.jpg",
+         "one" : "../imgs/rayth/1.jpg",
+         "two" : "../imgs/rayth/2.jpg",
+         "three" : "../imgs/rayth/3.jpg",
+         "four" : "../imgs/rayth/4.jpg",
        }
      }
  },
@@ -299,10 +299,10 @@ const placeList = [
        تعتبر قرية القصار قرية أثرية حيث وجدت على بعض حجارتها نقوش بالخط المسند الجنوبي (الحميري)ونقوش بالحروف اللاتينية القديمة تعود الى عهد الدولة الرومانية.تعتبر القصار اكبر قرية (واحة نخيل ) بفرسان وتأتي بعدها قرية المحرق التي تقع الى الجنوب منها.
        `,
        "images" : {
-         "one" : "/imgs/forsan/1.jpg",
-         "two" : "/imgs/forsan/2.jpg",
-         "three" : "/imgs/forsan/3.jpg",
-         "four" : "/imgs/forsan/4.jpg",
+         "one" : "../imgs/forsan/1.jpg",
+         "two" : "../imgs/forsan/2.jpg",
+         "three" : "../imgs/forsan/3.jpg",
+         "four" : "../imgs/forsan/4.jpg",
        }
      }
  },
@@ -321,10 +321,10 @@ const placeList = [
        من أكبر الأودية في منطقة جازان، تجري به المياه معظم أيام السنة ويصب في البحر الأحمر في منطقة القوز بالقرب من رأس الطرفة.
        `,
        "images" : {
-         "one" : "/imgs/besh/1.jpg",
-         "two" : "/imgs/besh/2.jpg",
-         "three" : "/imgs/besh/3.jpg",
-         "four" : "/imgs/besh/4.jpg",
+         "one" : "../imgs/besh/1.jpg",
+         "two" : "../imgs/besh/2.jpg",
+         "three" : "../imgs/besh/3.jpg",
+         "four" : "../imgs/besh/4.jpg",
        }
      }
  },
@@ -357,10 +357,10 @@ const placeList = [
        هي أحد قمم جبال فيفا تطل على وادي ضمد أشهر أودية المنطقة.
        `,
        "images" : {
-         "one" : "/imgs/fifa/1.jpg",
-         "two" : "/imgs/fifa/2.jpg",
-         "three" : "/imgs/fifa/3.jpg",
-         "four" : "/imgs/fifa/4.jpg",
+         "one" : "../imgs/fifa/1.jpg",
+         "two" : "../imgs/fifa/2.jpg",
+         "three" : "../imgs/fifa/3.jpg",
+         "four" : "../imgs/fifa/4.jpg",
        }
      }
  },
@@ -378,10 +378,10 @@ const placeList = [
        *تتوفر بها كافه الخدمات التي تحتاج اليها       
        `,
        "images" : {
-         "one" : "/imgs/aresh/1.jpg",
-         "two" : "/imgs/aresh/2.jpg",
-         "three" : "/imgs/aresh/3.jpg",
-         "four" : "/imgs/aresh/4.jpg",
+         "one" : "../imgs/aresh/1.jpg",
+         "two" : "../imgs/aresh/2.jpg",
+         "three" : "../imgs/aresh/3.jpg",
+         "four" : "../imgs/aresh/4.jpg",
        }
      }
  },
@@ -400,10 +400,10 @@ const placeList = [
         يتميز بتواجد الأشجار مثل أشجار الأثل والأراك والسلم والسدر، وتجري المياه فيه في موسم الخريف، ويعتبر موقع مميز للجذب السياحي.
        `,
        "images" : {
-         "one" : "/imgs/masarha/1.jpg",
-         "two" : "/imgs/masarha/2.jpg",
-         "three" : "/imgs/masarha/3.jpg",
-         "four" : "/imgs/masarha/4.jpg",
+         "one" : "../imgs/masarha/1.jpg",
+         "two" : "../imgs/masarha/2.jpg",
+         "three" : "../imgs/masarha/3.jpg",
+         "four" : "../imgs/masarha/4.jpg",
        }
      } 
  },
@@ -429,10 +429,10 @@ const placeList = [
        - منتجع صحي .
        `,
        "images" : {
-         "one" : "/imgs/amna/1.jpg",
-         "two" : "/imgs/amna/2.jpg",
-         "three" : "/imgs/amna/3.jpg",
-         "four" : "/imgs/amna/4.jpg",
+         "one" : "../imgs/amna/1.jpg",
+         "two" : "../imgs/amna/2.jpg",
+         "three" : "../imgs/amna/3.jpg",
+         "four" : "../imgs/amna/4.jpg",
        }
      }
  },
@@ -446,10 +446,10 @@ const placeList = [
      "name": "بـــلــدة الشـقـيق",
      "text" : ` تقع على طريق جازان – مكة المكرمة وتبعد حوالي 59 كم، وبها محطة تحلية مياه وبها نهضة عمرانية كبيرة.`,
      "images" : {
-       "one" : "/imgs/shakek/1.jpg",
-       "two" : "/imgs/shakek/2.jpg",
-       "three" : "/imgs/shakek/3.jpg",
-       "four" : "/imgs/shakek/4.jpg",
+       "one" : "../imgs/shakek/1.jpg",
+       "two" : "../imgs/shakek/2.jpg",
+       "three" : "../imgs/shakek/3.jpg",
+       "four" : "../imgs/shakek/4.jpg",
      }
    }
 },
@@ -615,7 +615,7 @@ function onEachFeature(feature , layer) {
 }
 
 var myIcon = L.icon ({
-    iconUrl: '/imgs/new.png',
+    iconUrl: '../imgs/new.png',
     iconSize: [40, 40],
     iconAnchor: [20, 40],
     popupAnchor: [0,-25]
